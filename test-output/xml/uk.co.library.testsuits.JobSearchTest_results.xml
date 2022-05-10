@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Demo Test"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="373.494">
+  <properties />
+  
+  
+            <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="75.572" classname="uk.co.library.testsuits.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="46.171" classname="uk.co.library.testsuits.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="48.857" classname="uk.co.library.testsuits.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="45.616" classname="uk.co.library.testsuits.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="45.726" classname="uk.co.library.testsuits.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="65.945" classname="uk.co.library.testsuits.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="45.607" classname="uk.co.library.testsuits.JobSearchTest" />
+      
+</testsuite>
